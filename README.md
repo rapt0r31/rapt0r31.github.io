@@ -1,1 +1,1 @@
- Сайты «Site-Booking» и «Site-Energy»
+ Сайты «Site-Booking», «Site-Energy», «Site-UtradeTest»
